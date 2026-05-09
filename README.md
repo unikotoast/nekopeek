@@ -3,7 +3,7 @@
 Super tiny, super fast and powerful image viewer with clean minimal interface for Windows 10/11.
 
 ## Download
-[GitHub Releases](https://github.com/unikotoast/nekocpp/releases) for alpha builds Windows may show a SmartScreen warning.
+[GitHub Releases](https://github.com/unikotoast/nekopeek/releases) for alpha builds Windows may show a SmartScreen warning.
 Status: alpha, in active development
 
 ![Nekopeek screenshot](img/screenshot.jpg)
