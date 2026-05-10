@@ -1,3 +1,4 @@
+
 # Nekopeek
 
 Super tiny, super fast and powerful image viewer with clean minimal interface for Windows 10/11.
@@ -7,7 +8,7 @@ Super tiny, super fast and powerful image viewer with clean minimal interface fo
 Status: alpha, in active development
 
 ![Nekopeek screenshot](img/screenshot.jpg)
-
+<img width="2560" height="1392" alt="explorer_UFg6pw2hLt" src="https://github.com/user-attachments/assets/a532a922-eb2a-4dac-b476-9028f572caaa" />
 ## Features
 
 - Less than 1 MB on disk, minimal RAM/CPU/GPU usage and instant startup
